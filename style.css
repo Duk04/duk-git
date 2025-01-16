@@ -1,0 +1,99 @@
+.av {
+  width: 800px;
+  height: 500px;
+}
+
+.flex {
+  display: flex;
+}
+
+.hu {
+  width: 400px;
+  height: 70px;
+  background-color: red;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.ho {
+  width: 180px;
+  height: 60px;
+  background-color: lightseagreen;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+.hi {
+  width: 180px;
+  height: 60px;
+  background-color: orange;
+  margin-left: 10px;
+  margin-top: 30px;
+}
+
+.pap1 {
+  width: 190px;
+  height: 60px;
+  background-color: crimson;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.pap2 {
+  width: 190px;
+  height: 60px;
+  background-color: darkolivegreen;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+.pap3 {
+  width: 180px;
+  height: 60px;
+  background-color: lightseagreen;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.popo1 {
+  width: 400px;
+  height: 150px;
+  background-color: red;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.popo2 {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 400px;
+}
+.poop {
+  width: 180px;
+  height: 60px;
+  background-color: aqua;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+.paap {
+  width: 180px;
+  height: 60px;
+  background-color: yellowgreen;
+  margin-top: 10px;
+}
+.piip {
+  width: 180px;
+  height: 60px;
+  background-color: darkolivegreen;
+  margin-left: 15px;
+}
+.mfg {
+  width: 590px;
+  height: 60px;
+  background-color: lightskyblue;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.maze {
+  width: 180px;
+  height: 60px;
+  background-color: lightsalmon;
+  margin-left: 10px;
+  margin-top: 10px;
+}
